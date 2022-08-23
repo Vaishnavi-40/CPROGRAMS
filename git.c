@@ -10,6 +10,6 @@ int main(){
  printf("enter b");
     scanf("%d",&b);
 
-printf("sum of a and b:%d", a+b);
+printf("addition of a and b:%d", a+b);
     return 0;
 }
