@@ -12,6 +12,6 @@ int main(){
     
 
 
-printf("subtraction of a and b:%d", a-b);
+printf("sub of a and b:%d", a-b);
     return 0;
 }
